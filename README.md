@@ -1,35 +1,53 @@
-//This project is a Task Manager application that was built using Next.js, React, and Tailwind CSS. Users can create, organize, and track tasks in an easy and organized interface. 
+## Features
+- Add new tasks using a form
+- Mark tasks as complete/incomplete 
+- Delete individual tasks
+- Filter tasks
+- clear all completed tasks
 
-//Tech Used: Next.js 
+
+## This project is a Task Manager application that was built using Next.js, React, and Tailwind CSS. Users can create, organize, and track tasks in an easy and organized interface. 
+
+## Tech Used: Next.js 
             React
             Tailwind CSS
             JavaScript
             LocalStorage
-//7 required features 
--Add tasks using a controlled form
--Delete individual tasks
--Toggle between tasks complete or incomplete 
--Filter tasks by Active, All, or Done.
--Display task stats like active, total and completed 
--Remove completed tasks
--Persist tasks using localStorage
-//Design 
+
+            
+## 7 required features 
+- Add tasks using a controlled form
+- Delete individual tasks
+- Toggle between tasks complete or incomplete 
+- Filter tasks by Active, All, or Done.
+- Display task stats like active, total and completed 
+- Remove completed tasks
+- Persist tasks using localStorage
+
+## Design 
 The application has a pink color pallete with rounded components and gradient styling. 
 It was customized using Flexbox and spacing adjustments to create an aesthetic interface.
 
-//How to run the project
--Install dependencies:
-npm install
-Start the development server:
-npm run dev
+## How to run the project
+- Install dependencies:
+- npm install
+- Start the development server:
+- - npm run dev
 Open the app in browser:
 http://localhost:3000
 
-AI usuage log 
--used to debug git and repository setup
--understand React state
--Improve my code comments
--Check that my project included all required features 
+## AI usuage log 
+- used to debug git and repository setup
+- understand React state
+- Im prove my code comments
+- Check that my project included all required features 
+
+## Key concepts
+- React state management
+- Component-based architecture
+- Event handling and controlled forms
+- Conditional rendering
+- Local storage persistence
 
 
 
